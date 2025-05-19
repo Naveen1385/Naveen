@@ -41,7 +41,7 @@ This repository showcases my work and experiments in the field of **Autonomous V
 
 | Project | Description |
 |--------|-------------|
-| **AutoRobo-Car** | A Raspberry Pi-based vehicle that avoids obstacles and navigates autonomously |
+| **AutoRoboCar** | A Raspberry Pi-based vehicle that avoids obstacles and navigates autonomously |
 | **LIDAR-SLAM-Bot** | A robot using 2D LIDAR and SLAM for indoor mapping |
 | **Traffic-Aware Nav** | Uses real-time traffic data and object detection for adaptive routing |
 | **VisionBot** | Line-following and object-detecting robot using OpenCV and deep learning |
